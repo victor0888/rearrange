@@ -2,11 +2,11 @@ REARRANGE
 ========
 
 This is simple rearrange file sample.
-<<<<<<< HEAD
 
-# Example
+## Examples
 
-Calling 'rearrange_name("Turing, Alan")' will return '"Alan Turing"'
-=======
+ * Calling 'rearrange_name("Turing, Alan")' will return '"Alan Turing"'
+ * Calling 'rearrange_name("Hopper, Grace M.")' will return '"Grase M. Hopper"'
+ * Calling 'rearrange_name("Voltaire")' will return '"Voltaire"'
+
 Turns "LastName, FirstName" into "FirstName LastName"
->>>>>>> cfbe545e126da2c293145ee54c0709ce3562ecce
